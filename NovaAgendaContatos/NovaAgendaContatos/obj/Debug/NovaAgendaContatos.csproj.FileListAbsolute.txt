@@ -1,0 +1,10 @@
+C:\Users\Jhonnatha\source\repos\NovaAgendaContatos\NovaAgendaContatos\obj\Debug\NovaAgendaContatos.csprojAssemblyReference.cache
+C:\Users\Jhonnatha\source\repos\NovaAgendaContatos\NovaAgendaContatos\obj\Debug\NovaAgendaContatos.FrmAgendaContatos.resources
+C:\Users\Jhonnatha\source\repos\NovaAgendaContatos\NovaAgendaContatos\obj\Debug\NovaAgendaContatos.Properties.Resources.resources
+C:\Users\Jhonnatha\source\repos\NovaAgendaContatos\NovaAgendaContatos\obj\Debug\NovaAgendaContatos.csproj.GenerateResource.cache
+C:\Users\Jhonnatha\source\repos\NovaAgendaContatos\NovaAgendaContatos\obj\Debug\NovaAgendaContatos.csproj.CoreCompileInputs.cache
+C:\Users\Jhonnatha\source\repos\NovaAgendaContatos\NovaAgendaContatos\bin\Debug\NovaAgendaContatos.exe.config
+C:\Users\Jhonnatha\source\repos\NovaAgendaContatos\NovaAgendaContatos\bin\Debug\NovaAgendaContatos.exe
+C:\Users\Jhonnatha\source\repos\NovaAgendaContatos\NovaAgendaContatos\bin\Debug\NovaAgendaContatos.pdb
+C:\Users\Jhonnatha\source\repos\NovaAgendaContatos\NovaAgendaContatos\obj\Debug\NovaAgendaContatos.exe
+C:\Users\Jhonnatha\source\repos\NovaAgendaContatos\NovaAgendaContatos\obj\Debug\NovaAgendaContatos.pdb
